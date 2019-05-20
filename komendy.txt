@@ -1,0 +1,2 @@
+npm autoprefixer-cli -o main.prefixed.css style.css
+npm cli [String] <*.html>
